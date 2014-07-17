@@ -1,0 +1,1702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="b03ff28b-fc59-49f8-8e81-a22397110a24" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="b03ff28b-fc59-49f8-8e81-a22397110a24" time="1405270764969" ignored="false" />
+    <file path="/settings.py" changelist="b03ff28b-fc59-49f8-8e81-a22397110a24" time="1405058444583" ignored="false" />
+    <file path="/utils.py" changelist="b03ff28b-fc59-49f8-8e81-a22397110a24" time="1405071325242" ignored="false" />
+    <file path="/views.py" changelist="b03ff28b-fc59-49f8-8e81-a22397110a24" time="1405270827728" ignored="false" />
+    <file path="/urls.py" changelist="b03ff28b-fc59-49f8-8e81-a22397110a24" time="1405242549235" ignored="false" />
+    <file path="/index.html" changelist="b03ff28b-fc59-49f8-8e81-a22397110a24" time="1405065122555" ignored="false" />
+    <file path="/detail.html" changelist="b03ff28b-fc59-49f8-8e81-a22397110a24" time="1405065152987" ignored="false" />
+    <file path="/results.html" changelist="b03ff28b-fc59-49f8-8e81-a22397110a24" time="1405065157775" ignored="false" />
+    <file path="/admin.py" changelist="b03ff28b-fc59-49f8-8e81-a22397110a24" time="1405066026797" ignored="false" />
+    <file path="/official.py" changelist="b03ff28b-fc59-49f8-8e81-a22397110a24" time="1405070859162" ignored="false" />
+    <file path="/test.html" changelist="b03ff28b-fc59-49f8-8e81-a22397110a24" time="1405085492202" ignored="false" />
+    <file path="/test.py" changelist="b03ff28b-fc59-49f8-8e81-a22397110a24" time="1405086318237" ignored="false" />
+    <file path="/models.py" changelist="b03ff28b-fc59-49f8-8e81-a22397110a24" time="1405267756703" ignored="false" />
+    <file path="/dianping.py" changelist="b03ff28b-fc59-49f8-8e81-a22397110a24" time="1405233063438" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/polls/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="1" selection-start="1061" selection-end="1061" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tests.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/polls/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/polls/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="75" column="33" selection-start="2029" selection-end="2029" vertical-scroll-proportion="0.35955057">
+              <folding>
+                <element signature="e#14#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/polls/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="42" selection-start="832" selection-end="832" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wechat/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="65" column="26" selection-start="2122" selection-end="2122" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#14#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dianping.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/polls/dianping.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="57" column="39" selection-start="1554" selection-end="1554" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#39#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysite/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="0" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="34" selection-start="912" selection-end="912" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wsgi.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysite/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/wechat/official.py" />
+        <option value="$PROJECT_DIR$/wechat/utils.py" />
+        <option value="$PROJECT_DIR$/wechat/test.html" />
+        <option value="$PROJECT_DIR$/wechat/test.py" />
+        <option value="$USER_HOME$/Documents/test.py" />
+        <option value="$PROJECT_DIR$/wechat/models.py" />
+        <option value="$PROJECT_DIR$/mysite/urls.py" />
+        <option value="$PROJECT_DIR$/mysite/settings.py" />
+        <option value="/Library/Python/2.7/site-packages/django/db/models/manager.py" />
+        <option value="$PROJECT_DIR$/wechat/dianping.py" />
+        <option value="$PROJECT_DIR$/polls/dianping.py" />
+        <option value="$PROJECT_DIR$/polls/urls.py" />
+        <option value="$PROJECT_DIR$/polls/admin.py" />
+        <option value="$PROJECT_DIR$/polls/models.py" />
+        <option value="$PROJECT_DIR$/wechat/views.py" />
+        <option value="$PROJECT_DIR$/polls/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="47" />
+    <option name="y" value="31" />
+    <option name="width" value="1393" />
+    <option name="height" value="860" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="polls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth1" value="77" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth0" value="75" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth3" value="75" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth2" value="80" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder1" value="1" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth2" value="88" />
+    <property name="recentsLimit" value="5" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder5" value="5" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth1" value="85" />
+    <property name="last_opened_file_path" value="$USER_HOME$/cloud/快盘" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth0" value="83" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth5" value="882" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth4" value="83" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth3" value="83" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth4" value="122" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth5" value="875" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder5" value="5" />
+    <property name="options.lastSelected" value="settings.github" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder2" value="2" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder0" value="0" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/polls" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree">
+    <UpdateInfo date="Moments ago" ActionInfo="_Update">
+      <UpdatedFiles>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated from server" />
+          <option name="myStatusName" value="Changed on server" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CHANGED_ON_SERVER" />
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Updated" />
+            <option name="myStatusName" value="Changed" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="false" />
+            <option name="myId" value="UPDATED" />
+            <PATH vcs="svn" revision="418">$PROJECT_DIR$/static/js/cece.js</PATH>
+          </FILE-GROUP>
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Created" />
+            <option name="myStatusName" value="Created" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="false" />
+            <option name="myId" value="CREATED" />
+          </FILE-GROUP>
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Deleted" />
+            <option name="myStatusName" value="Deleted" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="true" />
+            <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          </FILE-GROUP>
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Restored" />
+            <option name="myStatusName" value="Will be restored" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="false" />
+            <option name="myId" value="RESTORED" />
+          </FILE-GROUP>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Modified" />
+          <option name="myStatusName" value="Modified" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MODIFIED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Skipped" />
+          <option name="myStatusName" value="Skipped" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="SKIPPED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged with conflicts" />
+          <option name="myStatusName" value="Will be merged with conflicts" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED_WITH_CONFLICTS" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged with tree conflicts" />
+          <option name="myStatusName" value="Merged with tree conflicts" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged with property conflicts" />
+          <option name="myStatusName" value="Will be merged with property conflicts" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged" />
+          <option name="myStatusName" value="Will be merged" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Not in repository" />
+          <option name="myStatusName" value="Not in repository" />
+          <option name="mySupportsDeletion" value="true" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UNKNOWN" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Locally added" />
+          <option name="myStatusName" value="Locally added" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="LOCALLY_ADDED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Locally removed" />
+          <option name="myStatusName" value="Locally removed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="LOCALLY_REMOVED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Switched" />
+          <option name="myStatusName" value="Switched" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="SWITCHED" />
+        </FILE-GROUP>
+      </UpdatedFiles>
+    </UpdateInfo>
+  </component>
+  <component name="RunManager" selected="Django tests.Test: wechat">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="Test: wechat" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="wechat" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="1" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Django tests.Test: wechat" />
+      <item index="1" class="java.lang.String" itemvalue="Django server.1" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">$USER_HOME$/.subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b03ff28b-fc59-49f8-8e81-a22397110a24" name="Default" comment="" />
+      <created>1404999805569</created>
+      <updated>1404999805569</updated>
+    </task>
+    <task id="LOCAL-00001">
+      <created>1404999969103</created>
+      <updated>1404999969103</updated>
+    </task>
+    <task id="LOCAL-00002">
+      <created>1405000682103</created>
+      <updated>1405000682103</updated>
+    </task>
+    <task id="LOCAL-00003">
+      <created>1405000861103</created>
+      <updated>1405000861103</updated>
+    </task>
+    <task id="LOCAL-00004">
+      <created>1405048189115</created>
+      <updated>1405048189115</updated>
+    </task>
+    <task id="LOCAL-00005">
+      <created>1405048431105</created>
+      <updated>1405048431105</updated>
+    </task>
+    <task id="LOCAL-00006">
+      <created>1405048633103</created>
+      <updated>1405048633103</updated>
+    </task>
+    <task id="LOCAL-00007">
+      <created>1405049054103</created>
+      <updated>1405049054103</updated>
+    </task>
+    <task id="LOCAL-00008">
+      <created>1405049184103</created>
+      <updated>1405049184103</updated>
+    </task>
+    <task id="LOCAL-00009">
+      <created>1405050434103</created>
+      <updated>1405050434103</updated>
+    </task>
+    <task id="LOCAL-00010">
+      <created>1405058626104</created>
+      <updated>1405058626104</updated>
+    </task>
+    <task id="LOCAL-00011">
+      <created>1405059157102</created>
+      <updated>1405059157102</updated>
+    </task>
+    <task id="LOCAL-00012">
+      <created>1405062708103</created>
+      <updated>1405062708103</updated>
+    </task>
+    <task id="LOCAL-00013">
+      <created>1405063847103</created>
+      <updated>1405063847103</updated>
+    </task>
+    <task id="LOCAL-00014">
+      <created>1405064626102</created>
+      <updated>1405064626102</updated>
+    </task>
+    <task id="LOCAL-00015">
+      <created>1405065073102</created>
+      <updated>1405065073102</updated>
+    </task>
+    <task id="LOCAL-00016">
+      <created>1405065278103</created>
+      <updated>1405065278103</updated>
+    </task>
+    <task id="LOCAL-00017">
+      <created>1405065430103</created>
+      <updated>1405065430103</updated>
+    </task>
+    <task id="LOCAL-00018">
+      <created>1405065720102</created>
+      <updated>1405065720102</updated>
+    </task>
+    <task id="LOCAL-00019">
+      <created>1405065759117</created>
+      <updated>1405065759117</updated>
+    </task>
+    <task id="LOCAL-00020">
+      <created>1405065772102</created>
+      <updated>1405065772102</updated>
+    </task>
+    <task id="LOCAL-00021">
+      <created>1405065874104</created>
+      <updated>1405065874104</updated>
+    </task>
+    <task id="LOCAL-00022">
+      <created>1405065918104</created>
+      <updated>1405065918104</updated>
+    </task>
+    <task id="LOCAL-00023">
+      <created>1405066039103</created>
+      <updated>1405066039103</updated>
+    </task>
+    <task id="LOCAL-00024">
+      <created>1405066693102</created>
+      <updated>1405066693102</updated>
+    </task>
+    <task id="LOCAL-00025">
+      <created>1405067327102</created>
+      <updated>1405067327102</updated>
+    </task>
+    <task id="LOCAL-00026">
+      <created>1405069079104</created>
+      <updated>1405069079104</updated>
+    </task>
+    <task id="LOCAL-00027">
+      <created>1405069955103</created>
+      <updated>1405069955103</updated>
+    </task>
+    <task id="LOCAL-00028">
+      <created>1405070035102</created>
+      <updated>1405070035102</updated>
+    </task>
+    <task id="LOCAL-00029">
+      <created>1405070065103</created>
+      <updated>1405070065103</updated>
+    </task>
+    <task id="LOCAL-00030">
+      <created>1405070207103</created>
+      <updated>1405070207103</updated>
+    </task>
+    <task id="LOCAL-00031">
+      <created>1405070582103</created>
+      <updated>1405070582103</updated>
+    </task>
+    <task id="LOCAL-00032">
+      <created>1405070851103</created>
+      <updated>1405070851103</updated>
+    </task>
+    <task id="LOCAL-00033">
+      <created>1405070866104</created>
+      <updated>1405070866104</updated>
+    </task>
+    <task id="LOCAL-00034">
+      <created>1405071394103</created>
+      <updated>1405071394103</updated>
+    </task>
+    <task id="LOCAL-00035">
+      <created>1405071864104</created>
+      <updated>1405071864104</updated>
+    </task>
+    <task id="LOCAL-00036">
+      <created>1405072018102</created>
+      <updated>1405072018102</updated>
+    </task>
+    <task id="LOCAL-00037">
+      <created>1405072437103</created>
+      <updated>1405072437103</updated>
+    </task>
+    <task id="LOCAL-00038">
+      <created>1405072708104</created>
+      <updated>1405072708104</updated>
+    </task>
+    <task id="LOCAL-00039">
+      <created>1405074674104</created>
+      <updated>1405074674104</updated>
+    </task>
+    <task id="LOCAL-00040">
+      <created>1405075875104</created>
+      <updated>1405075875104</updated>
+    </task>
+    <task id="LOCAL-00041">
+      <created>1405076791102</created>
+      <updated>1405076791102</updated>
+    </task>
+    <task id="LOCAL-00042">
+      <created>1405076961103</created>
+      <updated>1405076961103</updated>
+    </task>
+    <task id="LOCAL-00043">
+      <created>1405077009103</created>
+      <updated>1405077009103</updated>
+    </task>
+    <task id="LOCAL-00044">
+      <created>1405077175102</created>
+      <updated>1405077175102</updated>
+    </task>
+    <task id="LOCAL-00045">
+      <created>1405078827102</created>
+      <updated>1405078827102</updated>
+    </task>
+    <task id="LOCAL-00046">
+      <created>1405079419104</created>
+      <updated>1405079419104</updated>
+    </task>
+    <task id="LOCAL-00047">
+      <created>1405080387103</created>
+      <updated>1405080387103</updated>
+    </task>
+    <task id="LOCAL-00048">
+      <created>1405080759102</created>
+      <updated>1405080759102</updated>
+    </task>
+    <task id="LOCAL-00049">
+      <created>1405080879103</created>
+      <updated>1405080879103</updated>
+    </task>
+    <task id="LOCAL-00050">
+      <created>1405081730104</created>
+      <updated>1405081730105</updated>
+    </task>
+    <task id="LOCAL-00051">
+      <created>1405081770103</created>
+      <updated>1405081770103</updated>
+    </task>
+    <task id="LOCAL-00052">
+      <created>1405081944103</created>
+      <updated>1405081944103</updated>
+    </task>
+    <task id="LOCAL-00053">
+      <created>1405082318102</created>
+      <updated>1405082318102</updated>
+    </task>
+    <task id="LOCAL-00054">
+      <created>1405082412104</created>
+      <updated>1405082412104</updated>
+    </task>
+    <task id="LOCAL-00055">
+      <created>1405083003103</created>
+      <updated>1405083003103</updated>
+    </task>
+    <task id="LOCAL-00056">
+      <created>1405083872102</created>
+      <updated>1405083872102</updated>
+    </task>
+    <task id="LOCAL-00057">
+      <created>1405084116104</created>
+      <updated>1405084116104</updated>
+    </task>
+    <task id="LOCAL-00058">
+      <created>1405084921103</created>
+      <updated>1405084921103</updated>
+    </task>
+    <task id="LOCAL-00059">
+      <created>1405086507103</created>
+      <updated>1405086507103</updated>
+    </task>
+    <task id="LOCAL-00060">
+      <created>1405086612104</created>
+      <updated>1405086612105</updated>
+    </task>
+    <task id="LOCAL-00061">
+      <created>1405142601113</created>
+      <updated>1405142601114</updated>
+    </task>
+    <task id="LOCAL-00062">
+      <created>1405142770104</created>
+      <updated>1405142770104</updated>
+    </task>
+    <task id="LOCAL-00063">
+      <created>1405180987108</created>
+      <updated>1405180987108</updated>
+    </task>
+    <task id="LOCAL-00064">
+      <created>1405181016105</created>
+      <updated>1405181016105</updated>
+    </task>
+    <task id="LOCAL-00065">
+      <created>1405181485103</created>
+      <updated>1405181485103</updated>
+    </task>
+    <task id="LOCAL-00066">
+      <created>1405182376104</created>
+      <updated>1405182376104</updated>
+    </task>
+    <task id="LOCAL-00067">
+      <created>1405215115105</created>
+      <updated>1405215115106</updated>
+    </task>
+    <task id="LOCAL-00068">
+      <created>1405215644104</created>
+      <updated>1405215644105</updated>
+    </task>
+    <task id="LOCAL-00069">
+      <created>1405215964103</created>
+      <updated>1405215964103</updated>
+    </task>
+    <task id="LOCAL-00070">
+      <created>1405215989105</created>
+      <updated>1405215989105</updated>
+    </task>
+    <task id="LOCAL-00071">
+      <created>1405216332104</created>
+      <updated>1405216332105</updated>
+    </task>
+    <task id="LOCAL-00072">
+      <created>1405216533104</created>
+      <updated>1405216533105</updated>
+    </task>
+    <task id="LOCAL-00073">
+      <created>1405216565104</created>
+      <updated>1405216565104</updated>
+    </task>
+    <task id="LOCAL-00074">
+      <created>1405216830105</created>
+      <updated>1405216830105</updated>
+    </task>
+    <task id="LOCAL-00075">
+      <created>1405217007103</created>
+      <updated>1405217007103</updated>
+    </task>
+    <task id="LOCAL-00076">
+      <created>1405217850102</created>
+      <updated>1405217850103</updated>
+    </task>
+    <task id="LOCAL-00077">
+      <created>1405217943103</created>
+      <updated>1405217943104</updated>
+    </task>
+    <task id="LOCAL-00078">
+      <created>1405218080102</created>
+      <updated>1405218080103</updated>
+    </task>
+    <task id="LOCAL-00079">
+      <created>1405218749103</created>
+      <updated>1405218749104</updated>
+    </task>
+    <task id="LOCAL-00080">
+      <created>1405219262103</created>
+      <updated>1405219262104</updated>
+    </task>
+    <task id="LOCAL-00081">
+      <created>1405219976102</created>
+      <updated>1405219976102</updated>
+    </task>
+    <task id="LOCAL-00082">
+      <created>1405220060102</created>
+      <updated>1405220060103</updated>
+    </task>
+    <task id="LOCAL-00083">
+      <created>1405220207103</created>
+      <updated>1405220207103</updated>
+    </task>
+    <task id="LOCAL-00084">
+      <created>1405220411103</created>
+      <updated>1405220411103</updated>
+    </task>
+    <task id="LOCAL-00085">
+      <created>1405220571104</created>
+      <updated>1405220571104</updated>
+    </task>
+    <task id="LOCAL-00086">
+      <created>1405220589104</created>
+      <updated>1405220589104</updated>
+    </task>
+    <task id="LOCAL-00087">
+      <created>1405220681103</created>
+      <updated>1405220681103</updated>
+    </task>
+    <task id="LOCAL-00088">
+      <created>1405220782104</created>
+      <updated>1405220782104</updated>
+    </task>
+    <task id="LOCAL-00089">
+      <created>1405220850102</created>
+      <updated>1405220850103</updated>
+    </task>
+    <task id="LOCAL-00090">
+      <created>1405220948103</created>
+      <updated>1405220948103</updated>
+    </task>
+    <task id="LOCAL-00091">
+      <created>1405220997103</created>
+      <updated>1405220997104</updated>
+    </task>
+    <task id="LOCAL-00092">
+      <created>1405221033105</created>
+      <updated>1405221033105</updated>
+    </task>
+    <task id="LOCAL-00093">
+      <created>1405221173103</created>
+      <updated>1405221173103</updated>
+    </task>
+    <task id="LOCAL-00094">
+      <created>1405221308103</created>
+      <updated>1405221308103</updated>
+    </task>
+    <task id="LOCAL-00095">
+      <created>1405221472103</created>
+      <updated>1405221472104</updated>
+    </task>
+    <task id="LOCAL-00096">
+      <created>1405221682102</created>
+      <updated>1405221682103</updated>
+    </task>
+    <task id="LOCAL-00097">
+      <created>1405221811104</created>
+      <updated>1405221811104</updated>
+    </task>
+    <task id="LOCAL-00098">
+      <created>1405221890103</created>
+      <updated>1405221890104</updated>
+    </task>
+    <task id="LOCAL-00099">
+      <created>1405221915103</created>
+      <updated>1405221915103</updated>
+    </task>
+    <task id="LOCAL-00100">
+      <created>1405221975102</created>
+      <updated>1405221975103</updated>
+    </task>
+    <task id="LOCAL-00101">
+      <created>1405222079103</created>
+      <updated>1405222079104</updated>
+    </task>
+    <task id="LOCAL-00102">
+      <created>1405222122102</created>
+      <updated>1405222122103</updated>
+    </task>
+    <task id="LOCAL-00103">
+      <created>1405222306103</created>
+      <updated>1405222306103</updated>
+    </task>
+    <task id="LOCAL-00104">
+      <created>1405222483103</created>
+      <updated>1405222483103</updated>
+    </task>
+    <task id="LOCAL-00105">
+      <created>1405222525104</created>
+      <updated>1405222525105</updated>
+    </task>
+    <task id="LOCAL-00106">
+      <created>1405222688103</created>
+      <updated>1405222688104</updated>
+    </task>
+    <task id="LOCAL-00107">
+      <created>1405222826105</created>
+      <updated>1405222826105</updated>
+    </task>
+    <task id="LOCAL-00108">
+      <created>1405223100103</created>
+      <updated>1405223100103</updated>
+    </task>
+    <task id="LOCAL-00109">
+      <created>1405223848102</created>
+      <updated>1405223848103</updated>
+    </task>
+    <task id="LOCAL-00110">
+      <created>1405225472104</created>
+      <updated>1405225472104</updated>
+    </task>
+    <task id="LOCAL-00111">
+      <created>1405226455102</created>
+      <updated>1405226455103</updated>
+    </task>
+    <task id="LOCAL-00112">
+      <created>1405226504103</created>
+      <updated>1405226504103</updated>
+    </task>
+    <task id="LOCAL-00113">
+      <created>1405226630103</created>
+      <updated>1405226630103</updated>
+    </task>
+    <task id="LOCAL-00114">
+      <created>1405226676104</created>
+      <updated>1405226676104</updated>
+    </task>
+    <task id="LOCAL-00115">
+      <created>1405227584103</created>
+      <updated>1405227584103</updated>
+    </task>
+    <task id="LOCAL-00116">
+      <created>1405230936103</created>
+      <updated>1405230936104</updated>
+    </task>
+    <task id="LOCAL-00117">
+      <created>1405231203102</created>
+      <updated>1405231203102</updated>
+    </task>
+    <task id="LOCAL-00118">
+      <created>1405231638103</created>
+      <updated>1405231638103</updated>
+    </task>
+    <task id="LOCAL-00119">
+      <created>1405231952102</created>
+      <updated>1405231952103</updated>
+    </task>
+    <task id="LOCAL-00120">
+      <created>1405232410104</created>
+      <updated>1405232410105</updated>
+    </task>
+    <task id="LOCAL-00121">
+      <created>1405232501103</created>
+      <updated>1405232501104</updated>
+    </task>
+    <task id="LOCAL-00122">
+      <created>1405232626103</created>
+      <updated>1405232626103</updated>
+    </task>
+    <task id="LOCAL-00123">
+      <created>1405232712103</created>
+      <updated>1405232712104</updated>
+    </task>
+    <task id="LOCAL-00124">
+      <created>1405232774102</created>
+      <updated>1405232774102</updated>
+    </task>
+    <task id="LOCAL-00125">
+      <created>1405232841105</created>
+      <updated>1405232841106</updated>
+    </task>
+    <task id="LOCAL-00126">
+      <created>1405232885103</created>
+      <updated>1405232885104</updated>
+    </task>
+    <task id="LOCAL-00127">
+      <created>1405233072103</created>
+      <updated>1405233072103</updated>
+    </task>
+    <task id="LOCAL-00128">
+      <created>1405233348102</created>
+      <updated>1405233348102</updated>
+    </task>
+    <task id="LOCAL-00129">
+      <created>1405233415103</created>
+      <updated>1405233415104</updated>
+    </task>
+    <task id="LOCAL-00130">
+      <created>1405233583103</created>
+      <updated>1405233583104</updated>
+    </task>
+    <task id="LOCAL-00131">
+      <created>1405233593102</created>
+      <updated>1405233593103</updated>
+    </task>
+    <task id="LOCAL-00132">
+      <created>1405233667104</created>
+      <updated>1405233667104</updated>
+    </task>
+    <task id="LOCAL-00133">
+      <created>1405233758103</created>
+      <updated>1405233758104</updated>
+    </task>
+    <task id="LOCAL-00134">
+      <created>1405233814103</created>
+      <updated>1405233814103</updated>
+    </task>
+    <task id="LOCAL-00135">
+      <created>1405233969104</created>
+      <updated>1405233969105</updated>
+    </task>
+    <task id="LOCAL-00136">
+      <created>1405234513104</created>
+      <updated>1405234513104</updated>
+    </task>
+    <task id="LOCAL-00137">
+      <created>1405234678103</created>
+      <updated>1405234678103</updated>
+    </task>
+    <task id="LOCAL-00138">
+      <created>1405234721104</created>
+      <updated>1405234721104</updated>
+    </task>
+    <task id="LOCAL-00139">
+      <created>1405234793103</created>
+      <updated>1405234793104</updated>
+    </task>
+    <task id="LOCAL-00140">
+      <created>1405234866103</created>
+      <updated>1405234866104</updated>
+    </task>
+    <task id="LOCAL-00141">
+      <created>1405235034103</created>
+      <updated>1405235034103</updated>
+    </task>
+    <task id="LOCAL-00142">
+      <created>1405235500103</created>
+      <updated>1405235500103</updated>
+    </task>
+    <task id="LOCAL-00143">
+      <created>1405235543103</created>
+      <updated>1405235543103</updated>
+    </task>
+    <task id="LOCAL-00144">
+      <created>1405235567102</created>
+      <updated>1405235567102</updated>
+    </task>
+    <task id="LOCAL-00145">
+      <created>1405235615102</created>
+      <updated>1405235615103</updated>
+    </task>
+    <task id="LOCAL-00146">
+      <created>1405235824103</created>
+      <updated>1405235824103</updated>
+    </task>
+    <task id="LOCAL-00147">
+      <created>1405236236103</created>
+      <updated>1405236236103</updated>
+    </task>
+    <task id="LOCAL-00148">
+      <created>1405236956104</created>
+      <updated>1405236956105</updated>
+    </task>
+    <task id="LOCAL-00149">
+      <created>1405237670103</created>
+      <updated>1405237670104</updated>
+    </task>
+    <task id="LOCAL-00150">
+      <created>1405237877104</created>
+      <updated>1405237877104</updated>
+    </task>
+    <task id="LOCAL-00151">
+      <created>1405237991103</created>
+      <updated>1405237991103</updated>
+    </task>
+    <task id="LOCAL-00152">
+      <created>1405238504103</created>
+      <updated>1405238504103</updated>
+    </task>
+    <task id="LOCAL-00153">
+      <created>1405238528103</created>
+      <updated>1405238528103</updated>
+    </task>
+    <task id="LOCAL-00154">
+      <created>1405238599102</created>
+      <updated>1405238599103</updated>
+    </task>
+    <task id="LOCAL-00155">
+      <created>1405238676103</created>
+      <updated>1405238676104</updated>
+    </task>
+    <task id="LOCAL-00156">
+      <created>1405238715103</created>
+      <updated>1405238715103</updated>
+    </task>
+    <task id="LOCAL-00157">
+      <created>1405238934103</created>
+      <updated>1405238934103</updated>
+    </task>
+    <task id="LOCAL-00158">
+      <created>1405239834102</created>
+      <updated>1405239834103</updated>
+    </task>
+    <task id="LOCAL-00159">
+      <created>1405240366103</created>
+      <updated>1405240366103</updated>
+    </task>
+    <task id="LOCAL-00160">
+      <created>1405240428102</created>
+      <updated>1405240428103</updated>
+    </task>
+    <task id="LOCAL-00161">
+      <created>1405240498103</created>
+      <updated>1405240498103</updated>
+    </task>
+    <task id="LOCAL-00162">
+      <created>1405240889102</created>
+      <updated>1405240889102</updated>
+    </task>
+    <task id="LOCAL-00163">
+      <created>1405240927103</created>
+      <updated>1405240927103</updated>
+    </task>
+    <task id="LOCAL-00164">
+      <created>1405241266102</created>
+      <updated>1405241266102</updated>
+    </task>
+    <task id="LOCAL-00165">
+      <created>1405241429102</created>
+      <updated>1405241429102</updated>
+    </task>
+    <task id="LOCAL-00166">
+      <created>1405241491103</created>
+      <updated>1405241491103</updated>
+    </task>
+    <task id="LOCAL-00167">
+      <created>1405241557102</created>
+      <updated>1405241557102</updated>
+    </task>
+    <task id="LOCAL-00168">
+      <created>1405241683102</created>
+      <updated>1405241683103</updated>
+    </task>
+    <task id="LOCAL-00169">
+      <created>1405242357103</created>
+      <updated>1405242357103</updated>
+    </task>
+    <task id="LOCAL-00170">
+      <created>1405242381102</created>
+      <updated>1405242381102</updated>
+    </task>
+    <task id="LOCAL-00171">
+      <created>1405242471102</created>
+      <updated>1405242471103</updated>
+    </task>
+    <task id="LOCAL-00172">
+      <created>1405242505103</created>
+      <updated>1405242505104</updated>
+    </task>
+    <task id="LOCAL-00173">
+      <created>1405242527102</created>
+      <updated>1405242527103</updated>
+    </task>
+    <task id="LOCAL-00174">
+      <created>1405242556101</created>
+      <updated>1405242556102</updated>
+    </task>
+    <task id="LOCAL-00175">
+      <created>1405242848102</created>
+      <updated>1405242848103</updated>
+    </task>
+    <task id="LOCAL-00176">
+      <created>1405242918102</created>
+      <updated>1405242918103</updated>
+    </task>
+    <task id="LOCAL-00177">
+      <created>1405243005102</created>
+      <updated>1405243005103</updated>
+    </task>
+    <task id="LOCAL-00178">
+      <created>1405243072103</created>
+      <updated>1405243072103</updated>
+    </task>
+    <task id="LOCAL-00179">
+      <created>1405243252102</created>
+      <updated>1405243252103</updated>
+    </task>
+    <task id="LOCAL-00180">
+      <created>1405243264103</created>
+      <updated>1405243264104</updated>
+    </task>
+    <task id="LOCAL-00181">
+      <created>1405243349103</created>
+      <updated>1405243349103</updated>
+    </task>
+    <task id="LOCAL-00182">
+      <created>1405243505103</created>
+      <updated>1405243505103</updated>
+    </task>
+    <task id="LOCAL-00183">
+      <created>1405244646102</created>
+      <updated>1405244646103</updated>
+    </task>
+    <task id="LOCAL-00184">
+      <created>1405247410102</created>
+      <updated>1405247410103</updated>
+    </task>
+    <task id="LOCAL-00185">
+      <created>1405247483103</created>
+      <updated>1405247483103</updated>
+    </task>
+    <task id="LOCAL-00186">
+      <created>1405247613102</created>
+      <updated>1405247613103</updated>
+    </task>
+    <task id="LOCAL-00187">
+      <created>1405247912102</created>
+      <updated>1405247912103</updated>
+    </task>
+    <task id="LOCAL-00188">
+      <created>1405248259102</created>
+      <updated>1405248259102</updated>
+    </task>
+    <task id="LOCAL-00189">
+      <created>1405249619102</created>
+      <updated>1405249619103</updated>
+    </task>
+    <task id="LOCAL-00190">
+      <created>1405254443102</created>
+      <updated>1405254443103</updated>
+    </task>
+    <task id="LOCAL-00191">
+      <created>1405255385102</created>
+      <updated>1405255385103</updated>
+    </task>
+    <task id="LOCAL-00192">
+      <created>1405255451103</created>
+      <updated>1405255451103</updated>
+    </task>
+    <task id="LOCAL-00193">
+      <created>1405256538103</created>
+      <updated>1405256538104</updated>
+    </task>
+    <task id="LOCAL-00194">
+      <created>1405257625102</created>
+      <updated>1405257625103</updated>
+    </task>
+    <task id="LOCAL-00195">
+      <created>1405258504103</created>
+      <updated>1405258504103</updated>
+    </task>
+    <task id="LOCAL-00196">
+      <created>1405258588103</created>
+      <updated>1405258588104</updated>
+    </task>
+    <task id="LOCAL-00197">
+      <created>1405258612102</created>
+      <updated>1405258612103</updated>
+    </task>
+    <task id="LOCAL-00198">
+      <created>1405258826102</created>
+      <updated>1405258826103</updated>
+    </task>
+    <task id="LOCAL-00199">
+      <created>1405261948104</created>
+      <updated>1405261948106</updated>
+    </task>
+    <task id="LOCAL-00200">
+      <created>1405262149102</created>
+      <updated>1405262149103</updated>
+    </task>
+    <task id="LOCAL-00201">
+      <created>1405262369103</created>
+      <updated>1405262369104</updated>
+    </task>
+    <task id="LOCAL-00202">
+      <created>1405262396103</created>
+      <updated>1405262396104</updated>
+    </task>
+    <task id="LOCAL-00203">
+      <created>1405262514103</created>
+      <updated>1405262514104</updated>
+    </task>
+    <task id="LOCAL-00204">
+      <created>1405262658104</created>
+      <updated>1405262658105</updated>
+    </task>
+    <task id="LOCAL-00205">
+      <created>1405262758103</created>
+      <updated>1405262758103</updated>
+    </task>
+    <task id="LOCAL-00206">
+      <created>1405265847103</created>
+      <updated>1405265847104</updated>
+    </task>
+    <task id="LOCAL-00207">
+      <created>1405266295103</created>
+      <updated>1405266295103</updated>
+    </task>
+    <task id="LOCAL-00208">
+      <created>1405266550103</created>
+      <updated>1405266550103</updated>
+    </task>
+    <task id="LOCAL-00209">
+      <created>1405267337104</created>
+      <updated>1405267337106</updated>
+    </task>
+    <task id="LOCAL-00210">
+      <created>1405267473104</created>
+      <updated>1405267473104</updated>
+    </task>
+    <task id="LOCAL-00211">
+      <created>1405267525104</created>
+      <updated>1405267525105</updated>
+    </task>
+    <task id="LOCAL-00212">
+      <created>1405267624102</created>
+      <updated>1405267624103</updated>
+    </task>
+    <task id="LOCAL-00213">
+      <created>1405267768103</created>
+      <updated>1405267768104</updated>
+    </task>
+    <task id="LOCAL-00214">
+      <created>1405268262102</created>
+      <updated>1405268262103</updated>
+    </task>
+    <task id="LOCAL-00215">
+      <created>1405268356102</created>
+      <updated>1405268356103</updated>
+    </task>
+    <task id="LOCAL-00216">
+      <created>1405268392102</created>
+      <updated>1405268392103</updated>
+    </task>
+    <task id="LOCAL-00217">
+      <created>1405268477103</created>
+      <updated>1405268477104</updated>
+    </task>
+    <task id="LOCAL-00218">
+      <created>1405268563102</created>
+      <updated>1405268563103</updated>
+    </task>
+    <task id="LOCAL-00219">
+      <created>1405268579102</created>
+      <updated>1405268579103</updated>
+    </task>
+    <task id="LOCAL-00220">
+      <created>1405269226102</created>
+      <updated>1405269226103</updated>
+    </task>
+    <task id="LOCAL-00221">
+      <created>1405270784103</created>
+      <updated>1405270784104</updated>
+    </task>
+    <option name="localTasksCounter" value="222" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="47" y="31" width="1393" height="860" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26874536" sideWeight="0.67027026" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wechat/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="359" selection-start="173" selection-end="488" vertical-scroll-proportion="0.24361949" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="20" selection-start="806" selection-end="806" vertical-scroll-proportion="0.5769231" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="57" selection-end="57" vertical-scroll-proportion="0.063025214">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="1" selection-start="142" selection-end="142" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/django/db/models/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="152" column="8" selection-start="5705" selection-end="5705" vertical-scroll-proportion="0.33258426">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="1" selection-start="1061" selection-end="1061" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/dianping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="39" selection-start="1554" selection-end="1554" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#39#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="34" selection-start="912" selection-end="912" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="26" selection-start="2122" selection-end="2122" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#14#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="42" selection-start="832" selection-end="832" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="33" selection-start="2029" selection-end="2029" vertical-scroll-proportion="0.35955057">
+          <folding>
+            <element signature="e#14#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
