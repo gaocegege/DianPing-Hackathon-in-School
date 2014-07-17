@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="../css/themes/default/jquery.mobile-1.4.3.min.css">
+    <link rel="stylesheet" href="../css/id.css">
+    <script src="../js/jquery.js"></script>
+    <script src="../js/jquery.mobile-1.4.3.min.js"></script>
+    <script src="../js/id.js"></script>
+    <script type="text/javascript" src="../js/cece.js"></script>
+</head>
+
+<body>
+
+    <div data-role="page" id="idresult">
+        <div data-role="header">
+            <h1>创建成功</h1>
+        </div>
+
+        <div data-role="content">
+            <div>您的聚餐标识为</div>
+            <div id="roomstr" align="center"></div>
+            <div>您预计人数为</div>
+            <input type="range" name="slider-2" id="slider-2" data-highlight="true" min="0" max="10" value="5">
+            <div>您的聚餐方式为</div>
+            <div id="ways">
+                <label>
+                    <input type="radio" name="radio-choice-0" id="radio-choice-0a">AA制
+                </label>
+                <label>
+                    <input type="radio" name="radio-choice-0" id="radio-choice-1a">我来请客
+                </label>
+                <label for="slider-1">您的全部预算为</label>
+                <input type="range" name="slider-1" id="slider-1" data-highlight="true" min="0" max="1000" value="50">
+            </div>
+        </div>
+
+        <button id="voteB" onclick="beginvote()">进入投票</button>
+        <div data-role="footer">
+            <h1>吃啥</h1>
+        </div>
+    </div>
+
+    <div data-role="page" id="votepage">
+        <div data-role="header">
+            <h1>投票页面</h1>
+        </div>
+
+        <div data-role="content" id="shoplist">
+            <form>
+                <fieldset data-role="controlgroup" id="showlist">
+
+                </fieldset>
+            </form>
+            <button id="vote" onclick="checkForVote()">投票</button>
+        </div>
+
+        <div data-role="footer">
+            <h1>吃啥</h1>
+        </div>
+    </div>
+
+    <div data-role="page" id="shopresult">
+        <div data-role="header">
+            <h1>商家选择结果</h1>
+        </div>
+
+        <div data-role="content">
+            <div>得票最多：</div>
+            <div id="voteresult"></div>
+            <a href="#page2" data-role="button">开始点餐</a>
+        </div>
+
+        <div data-role="footer">
+            <h1>吃啥</h1>
+        </div>
+    </div>
+
+    <div data-role="page" id="page2">
+        <div data-role="header">
+            <h1>点菜咯</h1>
+        </div>
+
+        <div data-role="content">
+            <form>
+                <fieldset data-role="controlgroup" id="menulist">
+                </fieldset>
+                <button id="export" onclick="export1()">生成点菜单</button>
+            </form>
+        </div>
+        <div data-role="footer">
+            <h1>吃啥</h1>
+        </div>
+    </div>
+
+    <div data-role="page" id="end">
+        <div data-role="header">
+            <h1>最终菜单</h1>
+        </div>
+
+        <div data-role="content">
+            <form>
+                <fieldset data-role="controlgroup" id="endlist">
+                </fieldset>
+            </form>
+        </div>
+        <div data-role="footer">
+            <h1>吃啥</h1>
+        </div>
+    </div>
+
+</body>
+
+</html>
