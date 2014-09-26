@@ -14,7 +14,7 @@ import json
 
 from django.views.decorators.csrf import csrf_exempt
 
-
+#What does the description mean~?
 @csrf_exempt
 def vote(request, poll_id):
     p = get_object_or_404(Poll, pk=poll_id)
@@ -29,6 +29,7 @@ def vote(request, poll_id):
 @csrf_exempt
 def result(request, poll_id):
     poll = Poll.objects.get(pk=poll_id)
+    # ordered by vote count
     cs = list(poll.choice_set.all().order_by('votes')[::-1])
     ls = []
     for c in cs:
@@ -45,7 +46,7 @@ def createPoll(create_user):
     p.save()
     return p.id
 
-
+# join the room
 def joinPoll(poll_id):
     try:
         poll = Poll.objects.get(pk=poll_id)

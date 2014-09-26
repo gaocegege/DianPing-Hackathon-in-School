@@ -1,16 +1,30 @@
-大众点评hackathon活动代码
+Dian Ping School Hackathon
 =================================
 
-2014年参加Hackathon时候做的，比较简单
+Date:2014.07.XX
 
-项目介绍
----------------------------------
-一个多人在线订餐系统，最主要的功能是用户可以共同点餐，最后生成一份订单
+#About the project
 
-Coder
-----------------------------------
-###
-    Gao Ce
-    Cao Xufeng
-    Hu Jingyuan
-    Chen Chongze
+An food book app based in weichat.
+
+##Keywords
+
+- Django
+- DianPing API
+- Weichat API
+- jquery mobile UI
+
+##Coders
+
+Back End:
+
+- Hu Jingyuan
+- Cao Xufeng
+
+Front End:
+
+- Chen Chongze
+- [Gao Ce](https://github.com/gaocegege)
+
+##DianPing Partner
+- [Mr. Gong](https://github.com/dozer47528)
